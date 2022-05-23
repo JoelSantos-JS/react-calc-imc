@@ -7,7 +7,7 @@
 
   👇 Clique na imagem para ser direcionado para o site 👇
 
-  [![calc-imc](https://user-images.githubusercontent.com/80923539/164159991-6847ea5e-c83a-4d7c-8a45-ea8354636e29.jpg)]/)
+  [![calc-imc](https://user-images.githubusercontent.com/80923539/164159991-6847ea5e-c83a-4d7c-8a45-ea8354636e29.jpg)](https://react-calc-in6c340vm-joelsantos-js.vercel.app//)
 
 Calculadora de IMC desenvolvida com React + Typescript, CSS Modules .
 
